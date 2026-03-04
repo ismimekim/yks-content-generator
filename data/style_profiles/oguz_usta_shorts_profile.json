@@ -1,0 +1,384 @@
+{
+  "meta": {
+    "source": "oguz_usta_shorts",
+    "sample_size": 100,
+    "total_chars": 52498,
+    "extracted_at": "2026-02-26T14:49:10.872697"
+  },
+  "patterns": {
+    "opening_formulas": [
+      {
+        "text": "karşımıza zor bir soru var zorlandığımız bir soru Hani bu soruyla ne kadar cebelleşmek kyor Matematikle aran çok iyiyse matematiği çok seviyorsan zaten matematiği sevdiğin için bazen bir soruya uğraşırsın 30 dakika uğraşmak da sana koymuyor zorlayıcı da gelmiyor bundan zevk alıyorsun matematikle o kadar arama iyi değil hocam ben Gelişmekte olan bir öğrenciyim diyorsan da bence 10 dakikalar falan asla geçmemeli melim alı deyince de böyle bir kural mış gibi oluyor ama ben hep orada şunun derdim deyil benim sınavım atıyorum 10 Haziran benim zamanımı iyi kullanmam lazım Ben günümün sürekli böyle yarım saatini fantastik şeylere ayırdığım zaman Bunlar totalde büyük bir zaman kaybına neden oluyor",
+        "count": 1
+      },
+      {
+        "text": "20 saatte tyt sosyal bitirebilirsin nasıl yaklaş tam reçete vereceğim sana önce videoları veriyorum süreler 1",
+        "count": 1
+      },
+      {
+        "text": "5a CK haritalar kampı 226 dakika CK 9 günde tyt coğrafya 290 dakika Soner Ardıç 7 günde tyt tarih 120 dakika felsefe atölyesi genel tekrar 80 dakika Emre Yürük önemli kavramlar 14 dakika Emre Yürük genel tekrar 54 dakika Toplam süre 784 dakika yani 13 saat durdurdun geriye sardın not aldın Biz ona 15 saat diyelim üzerinde bir branş setini komple bitireceksin önerilerim Paraf 3D sarmal apotemi bir sosyal denemesi 10 122 dakikada gider bir sette 20 deneme var 3-4 saat civarında biter Kontrol etmesi yanlışlara bakması 5 saat desek toplam 20 saatte bu işi paket edersin netlerin Hayırlı olsun görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "AYT fni anlayabilmek için tyt'nin bu konularını mutlaka bilmen gerekiyor biyolojiden canlıların ortak özellikleri canlıların temel bileşenleri ve hücre Fizikten madde ve özellikleri kuvvet hareket iş güç ve enerji Kimyadan atomun yapısı periyodik tablo Türler arası etkileşimler kimyasal hesaplamalar ve kimyanın temel kanunları aypi anlamıyorsan sıkıntı bu konularda olabilir görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "lütfen AYT çalışmalarınızı bekletmeyin bakın dediğim gibi çok daha fazla puan var konular çok daha büyük yani sizin daha Çok zamanınızı alacak çalışmalarınız verdiğiniz emekler çok daha rahat bir şekilde nete puana dönecek ve bakın en önemlisi rakiplerinizin birçoğu buradan patlayacak yani rakiplerinizin birçoğu yine bu sene de her sene olduğu gibi ayt'ye geç başladığı için veya ayt'ye gerekli önemi göstermediği için mezuna kalacaklar Bu yüzden ayt'ye erken başlamak ayt'ye düzgün bir şekilde başlamak Sizin için çok büyük avantaj",
+        "count": 1
+      },
+      {
+        "text": "AYT için en sağlam full tekrar videoları görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "en büyük mezuna kalma sebebi ayt'ye geç başlamak Peki sen ayt'ye ne zaman başlamalısın bunun için tyt netlerinin belirli bir noktaya gelmesine gerek yok matematikten örnek verelim ilk 12 konuyu hallettin mi Evet o zaman direkt fonksiyonla AYT matematiğe başlamalısın Çünkü esas puan ayt'de esas farkı sen ayt'de atacaksın tyt netlerinin kafandaki sınıra gelmesini bekleme AYT başlayabilecek hale gelir gelmez AYT çalışmalarına başla sonra da tyt ve ayt'ye paralel götür unutma ayi ne kadar ertelersen o kadar senin zararına görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "Abi ben düzenli denemeye girmek istiyorum Öyle zadd zurg Yayınları istemiyorum Sadece en kaliteli yayınları istiyorum bir gözetim olsun bir düzen olsun istiyorum her deneme için detaylı karne ve video çözüm istiyorum Bir de bunlara diğer seçeneklere göre daha ekonomik ulaşmak istiyorum diyorsan baykuş deneme Kulübü aradığın şey olabilir Şu öne çıkarılan veya şu videodan detaylı bilgi alabilirsin Eğer aradığın şey buysa Senin de aramızda görmek isteriz görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "sınavı kazanmak için Zeki olmana gerek yok sınavı kazanmak için temelinin iyi olmasına gerek yok sınavı kazanmak için her gün 10 saat çalışmana da gerek yok bu sınavı kazanmak için sürekliliğe ihtiyacım var Her günün iyi geçmeyebilir her gün çok iyi çalışamayan ancak yine de her gün dünkü senden iyiysen her gün bir eksiği daha kapatıyorsa Her gün biraz daha iyiye gidiyorsan sürecin sonunda Başaran sen olacaksın",
+        "count": 1
+      },
+      {
+        "text": "Oğuz soru cevap yapıyoruz ama senin hakkında hangi liseden mezunsun osmany efen burcun ne boğa Hangi takımı tutuyorsun Beşiktaş favori müzik türün rap en sevdiğin rap sanatçısı Sansar Salvo favori rengi mor sadece bir ülkeye gezecek olsan neresi Japonya Messi mi Ronaldo mu net Messi Çay mı kahve mi kahve Kedi mi köpek mi köpek kitap mı film mi film abi ya görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "beyniniz Yani insan beyni dopaminin nereden geldiğini umursamaz ne kadar dopamin geldiğini ve ne kadar kolay geldiğini umursar önünüzde iki tane seçenek var bir telefonunu elinize alıp sınırsız TikTok kaydırmak Yapması çok kolay dopamini çok yüksek 2 oturup ders çalışıp netlerinizi arttırmak ve belki de Hayalinizdeki okula gitmek Yapması çok zor salgıladığı anlık dopamin de çok düşük Eğer siz bu kararı akışa bırakırsanız beyniniz hiçbir zaman kendiliğinden ders çalışmayı seçmez her zaman birinci seçeneği Yani kolay yoldan yüksek dopamin kazanacağı seçeneği seçer sonuç gariban deney faresi yani sevgili gençler sırtınızı motiv asona dayarsan canınızın istemesini bir Kriter olarak kabul ederseniz sadece yks'de değil hayatın hiçbir alanında istediğiniz başarıları elde edemezsiniz",
+        "count": 1
+      },
+      {
+        "text": "Bu benim kendi öğrencilik Hayatımda çok kez yaptığım bir hata hatta hiç neredeyse dönemediğim telafi edemediğim bir hata buradaki ön yargıdan kastım şu okulda dersi anlatan hocaya karşı ön yargılı olmak yani okul hocaları kötüdür okul hocalarından dinlenilme İşte bizim hoca kötü anlatıyor algısı Burada şunu demiyorum kesinlikle tüm Okullardaki yani tüm devlet ya da özel Okullardaki Hocalar çok iyi Bunu asla söylemiyorum Ancak şunu söylüyorum gerçekten kötü mü acaba yani çünkü aralarında iyi olanlar da Elbette var değil mi Belki senin öğretmen kadrodaki bazı öğretmenler gerçekten iyi gerçekten ders anlatabiliyor ve sen onlardan gerçekten anlayabiliyorsun Ancak bu ciddi önyargıdan dolayı sen belki de o insana yani o öğretmenine o şansı hiç tanımıyorsun ve direkt olarak kafanda Hani okuldaki hocalar kötüdür okulda ders dinlenmez şekilinde kodlamış sın ciddi bir ön yargın var Bu yüzden de ne yapıyorsun anlayabileceğin bir dersi ertelemiş oluyorsun",
+        "count": 1
+      },
+      {
+        "text": "matematikte 80'de 80 yapmama ciddi katkısı olan bir rutin gençler bir hoca binlerce soru görüyor piyasadaki çoğu kaynağı tarıyor ve bazı soruları bu soru öğrenciye çok şey katar vizyonunu genişletir diyerek YouTube'a yüklüyor benim yaptığım rutin ise Az sonra size vereceğim playlistleri günde beş soru çözerek sene boyunca eritmek di ve matematiğimi gerçekten uçurdu hocalar ve playlistler şöyle bir soru bir yorum Hedef ilmin matematiğin Fatihi aranıp bulunamayan matematik soruları barıştıran matematik ve şükri Akkoy görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "tyt'de bazı konular hem çok zor hem çok uzun bu konuları ders ders açıklamalara Yazdım bunları sona bırakabilir veya komple eleyip onlarca saati ayt'ye yatırabilirsin görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "Abi bu zamanlar kaç saat çalışıyordun dershanem yoktu o yüzden 89 bu sene YKS All Star Her sene aynı terhane bomboş bahaneler Niye 5kd mezuna bıraktın deli misin Çok istediğim bir şey için fedakarlık yapmak zorundasın erken başlarsam yorulurum yani sınava onay var var gücünüzü de basın Bu saçmalıklarla da vakit kaybetmeyin 4 saat uyuyorum sıkıntı yaratırım vampir misin oğlum Mazallah sağlığından olursun görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "YouTube dinlerken dalıp gidiyorum Film izler gibi izleme not al hocanın sorularına cevap ver AYT mattan önce neleri bilmeliyim ilk 12 kümme fonksiyon az çalışıp akıllı çalışırsak Olur mu Hem akıllı çalış hem çok çalış işini garantiye al bir eşit ağırlıkçı şu anda tyt fen çalışmalı daha büyük öncelikleri var fen çalışacağına gitsin AYT çalışsın geometri çalışmayı düşünmüyorum yani 20 tane soruyu gözden çıkarma lüksün varsa helal olsun sana Görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "tyt netlerime taktım full tyt çalışıyorum bu hikayenin sonunu bilen mezunlar yorumlara yazsın fonksiyonları nasıl çalışmalıyım Vaktin varsa kesinlikle fasikül çöz Öner bir tane ya Barış ya apotemi koştuk veya Dershane şartı şunu almazsan sınavı kazanamazsın diyen herkes istisnasız dolandırıcı abi 90'lara tavsiyen ne olur obp ii salmayın matematiği sağlam tutun B Senin de tadını çıkarın görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "baykuş deneme Kulübü nasıl işliyor 1 web sitesinden kulübe katıldın 2 adresine baykuş kutun geldi 3 içinden dör tane mlü ve poşetli deneme çıktı 4 sınavdan önce tüm bilgiler sana geldi 5 sınav odasına girdin mühürlü bakıldı 6 gözetmen işinde sınavlar çözüldü 7 sınavın bitti Taktak online op diye kodladım 8 kodlamam biter bitmez sonucunu ve detaylı karini gördün 9 cevap anahtarı ve video çözümler gruplarda paylaşıldı ve 10 her dört denemede bir sıfır hata kitapçığın sana ulaştırıldı şu öne çıkarılan veya şu videodan daha detaylı bilgi alabilirsin dilersen web sitemizden aramıza katılabilirsin görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "Oğuz tyt denemesinde matematikten başlanır mı abi neden başlanmasına şl gençler Burada iki tane önemli şey söyleyeceğim birincisi bu çözme sırası kişiye özel Yani tek Doğrusu olmayan bir şey şu anda tam deneyı zamanları memnun değilseniz farklı şeyler deneyin optimal bulun İkincisi de bu işte bir mucize falan aramayın yani çözme sırasındaki bir değişiklik size bir anda 1015 net falan getirmeyecek O yüzden aşırı da takılmayın görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "çok rahat bir insan olmak hiçbir şeyi umursamayan böyle dünya umurunda olmayan bir insan olmak iyi bir şey değil İnsan bir şeyleri kendine dert edilmezse yani çok rahat çok relaks Bir insan olursa hiçbir şey dert edilmezse aksiyona geçmez aksiyona geçmezse de zaten hiçbir zaman hiçbir konuda başarılı olamaz strese zaten kaba tabirle İnsan bir şeyi dert edindiğinde ortaya çıkan insanı dert edindiği şey hakkında aksiyon almaya yeten ve aksiyonların dert edindiği şeyin üstesinden gelinceye kadar devam ettirmesini sağlayan şeydir",
+        "count": 1
+      }
+    ],
+    "closing_formulas": [
+      {
+        "text": "karşımıza zor bir soru var zorlandığımız bir soru Hani bu soruyla ne kadar cebelleşmek kyor Matematikle aran çok iyiyse matematiği çok seviyorsan zaten matematiği sevdiğin için bazen bir soruya uğraşırsın 30 dakika uğraşmak da sana koymuyor zorlayıcı da gelmiyor bundan zevk alıyorsun matematikle o kadar arama iyi değil hocam ben Gelişmekte olan bir öğrenciyim diyorsan da bence 10 dakikalar falan asla geçmemeli melim alı deyince de böyle bir kural mış gibi oluyor ama ben hep orada şunun derdim deyil benim sınavım atıyorum 10 Haziran benim zamanımı iyi kullanmam lazım Ben günümün sürekli böyle yarım saatini fantastik şeylere ayırdığım zaman Bunlar totalde büyük bir zaman kaybına neden oluyor",
+        "count": 1
+      },
+      {
+        "text": "20 saatte tyt sosyal bitirebilirsin nasıl yaklaş tam reçete vereceğim sana önce videoları veriyorum süreler 1",
+        "count": 1
+      },
+      {
+        "text": "5a CK haritalar kampı 226 dakika CK 9 günde tyt coğrafya 290 dakika Soner Ardıç 7 günde tyt tarih 120 dakika felsefe atölyesi genel tekrar 80 dakika Emre Yürük önemli kavramlar 14 dakika Emre Yürük genel tekrar 54 dakika Toplam süre 784 dakika yani 13 saat durdurdun geriye sardın not aldın Biz ona 15 saat diyelim üzerinde bir branş setini komple bitireceksin önerilerim Paraf 3D sarmal apotemi bir sosyal denemesi 10 122 dakikada gider bir sette 20 deneme var 3-4 saat civarında biter Kontrol etmesi yanlışlara bakması 5 saat desek toplam 20 saatte bu işi paket edersin netlerin Hayırlı olsun görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "AYT fni anlayabilmek için tyt'nin bu konularını mutlaka bilmen gerekiyor biyolojiden canlıların ortak özellikleri canlıların temel bileşenleri ve hücre Fizikten madde ve özellikleri kuvvet hareket iş güç ve enerji Kimyadan atomun yapısı periyodik tablo Türler arası etkileşimler kimyasal hesaplamalar ve kimyanın temel kanunları aypi anlamıyorsan sıkıntı bu konularda olabilir görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "lütfen AYT çalışmalarınızı bekletmeyin bakın dediğim gibi çok daha fazla puan var konular çok daha büyük yani sizin daha Çok zamanınızı alacak çalışmalarınız verdiğiniz emekler çok daha rahat bir şekilde nete puana dönecek ve bakın en önemlisi rakiplerinizin birçoğu buradan patlayacak yani rakiplerinizin birçoğu yine bu sene de her sene olduğu gibi ayt'ye geç başladığı için veya ayt'ye gerekli önemi göstermediği için mezuna kalacaklar Bu yüzden ayt'ye erken başlamak ayt'ye düzgün bir şekilde başlamak Sizin için çok büyük avantaj",
+        "count": 1
+      },
+      {
+        "text": "AYT için en sağlam full tekrar videoları görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "en büyük mezuna kalma sebebi ayt'ye geç başlamak Peki sen ayt'ye ne zaman başlamalısın bunun için tyt netlerinin belirli bir noktaya gelmesine gerek yok matematikten örnek verelim ilk 12 konuyu hallettin mi Evet o zaman direkt fonksiyonla AYT matematiğe başlamalısın Çünkü esas puan ayt'de esas farkı sen ayt'de atacaksın tyt netlerinin kafandaki sınıra gelmesini bekleme AYT başlayabilecek hale gelir gelmez AYT çalışmalarına başla sonra da tyt ve ayt'ye paralel götür unutma ayi ne kadar ertelersen o kadar senin zararına görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "Abi ben düzenli denemeye girmek istiyorum Öyle zadd zurg Yayınları istemiyorum Sadece en kaliteli yayınları istiyorum bir gözetim olsun bir düzen olsun istiyorum her deneme için detaylı karne ve video çözüm istiyorum Bir de bunlara diğer seçeneklere göre daha ekonomik ulaşmak istiyorum diyorsan baykuş deneme Kulübü aradığın şey olabilir Şu öne çıkarılan veya şu videodan detaylı bilgi alabilirsin Eğer aradığın şey buysa Senin de aramızda görmek isteriz görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "sınavı kazanmak için Zeki olmana gerek yok sınavı kazanmak için temelinin iyi olmasına gerek yok sınavı kazanmak için her gün 10 saat çalışmana da gerek yok bu sınavı kazanmak için sürekliliğe ihtiyacım var Her günün iyi geçmeyebilir her gün çok iyi çalışamayan ancak yine de her gün dünkü senden iyiysen her gün bir eksiği daha kapatıyorsa Her gün biraz daha iyiye gidiyorsan sürecin sonunda Başaran sen olacaksın",
+        "count": 1
+      },
+      {
+        "text": "Oğuz soru cevap yapıyoruz ama senin hakkında hangi liseden mezunsun osmany efen burcun ne boğa Hangi takımı tutuyorsun Beşiktaş favori müzik türün rap en sevdiğin rap sanatçısı Sansar Salvo favori rengi mor sadece bir ülkeye gezecek olsan neresi Japonya Messi mi Ronaldo mu net Messi Çay mı kahve mi kahve Kedi mi köpek mi köpek kitap mı film mi film abi ya görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "beyniniz Yani insan beyni dopaminin nereden geldiğini umursamaz ne kadar dopamin geldiğini ve ne kadar kolay geldiğini umursar önünüzde iki tane seçenek var bir telefonunu elinize alıp sınırsız TikTok kaydırmak Yapması çok kolay dopamini çok yüksek 2 oturup ders çalışıp netlerinizi arttırmak ve belki de Hayalinizdeki okula gitmek Yapması çok zor salgıladığı anlık dopamin de çok düşük Eğer siz bu kararı akışa bırakırsanız beyniniz hiçbir zaman kendiliğinden ders çalışmayı seçmez her zaman birinci seçeneği Yani kolay yoldan yüksek dopamin kazanacağı seçeneği seçer sonuç gariban deney faresi yani sevgili gençler sırtınızı motiv asona dayarsan canınızın istemesini bir Kriter olarak kabul ederseniz sadece yks'de değil hayatın hiçbir alanında istediğiniz başarıları elde edemezsiniz",
+        "count": 1
+      },
+      {
+        "text": "Bu benim kendi öğrencilik Hayatımda çok kez yaptığım bir hata hatta hiç neredeyse dönemediğim telafi edemediğim bir hata buradaki ön yargıdan kastım şu okulda dersi anlatan hocaya karşı ön yargılı olmak yani okul hocaları kötüdür okul hocalarından dinlenilme İşte bizim hoca kötü anlatıyor algısı Burada şunu demiyorum kesinlikle tüm Okullardaki yani tüm devlet ya da özel Okullardaki Hocalar çok iyi Bunu asla söylemiyorum Ancak şunu söylüyorum gerçekten kötü mü acaba yani çünkü aralarında iyi olanlar da Elbette var değil mi Belki senin öğretmen kadrodaki bazı öğretmenler gerçekten iyi gerçekten ders anlatabiliyor ve sen onlardan gerçekten anlayabiliyorsun Ancak bu ciddi önyargıdan dolayı sen belki de o insana yani o öğretmenine o şansı hiç tanımıyorsun ve direkt olarak kafanda Hani okuldaki hocalar kötüdür okulda ders dinlenmez şekilinde kodlamış sın ciddi bir ön yargın var Bu yüzden de ne yapıyorsun anlayabileceğin bir dersi ertelemiş oluyorsun",
+        "count": 1
+      },
+      {
+        "text": "matematikte 80'de 80 yapmama ciddi katkısı olan bir rutin gençler bir hoca binlerce soru görüyor piyasadaki çoğu kaynağı tarıyor ve bazı soruları bu soru öğrenciye çok şey katar vizyonunu genişletir diyerek YouTube'a yüklüyor benim yaptığım rutin ise Az sonra size vereceğim playlistleri günde beş soru çözerek sene boyunca eritmek di ve matematiğimi gerçekten uçurdu hocalar ve playlistler şöyle bir soru bir yorum Hedef ilmin matematiğin Fatihi aranıp bulunamayan matematik soruları barıştıran matematik ve şükri Akkoy görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "tyt'de bazı konular hem çok zor hem çok uzun bu konuları ders ders açıklamalara Yazdım bunları sona bırakabilir veya komple eleyip onlarca saati ayt'ye yatırabilirsin görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "Abi bu zamanlar kaç saat çalışıyordun dershanem yoktu o yüzden 89 bu sene YKS All Star Her sene aynı terhane bomboş bahaneler Niye 5kd mezuna bıraktın deli misin Çok istediğim bir şey için fedakarlık yapmak zorundasın erken başlarsam yorulurum yani sınava onay var var gücünüzü de basın Bu saçmalıklarla da vakit kaybetmeyin 4 saat uyuyorum sıkıntı yaratırım vampir misin oğlum Mazallah sağlığından olursun görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "YouTube dinlerken dalıp gidiyorum Film izler gibi izleme not al hocanın sorularına cevap ver AYT mattan önce neleri bilmeliyim ilk 12 kümme fonksiyon az çalışıp akıllı çalışırsak Olur mu Hem akıllı çalış hem çok çalış işini garantiye al bir eşit ağırlıkçı şu anda tyt fen çalışmalı daha büyük öncelikleri var fen çalışacağına gitsin AYT çalışsın geometri çalışmayı düşünmüyorum yani 20 tane soruyu gözden çıkarma lüksün varsa helal olsun sana Görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "tyt netlerime taktım full tyt çalışıyorum bu hikayenin sonunu bilen mezunlar yorumlara yazsın fonksiyonları nasıl çalışmalıyım Vaktin varsa kesinlikle fasikül çöz Öner bir tane ya Barış ya apotemi koştuk veya Dershane şartı şunu almazsan sınavı kazanamazsın diyen herkes istisnasız dolandırıcı abi 90'lara tavsiyen ne olur obp ii salmayın matematiği sağlam tutun B Senin de tadını çıkarın görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "baykuş deneme Kulübü nasıl işliyor 1 web sitesinden kulübe katıldın 2 adresine baykuş kutun geldi 3 içinden dör tane mlü ve poşetli deneme çıktı 4 sınavdan önce tüm bilgiler sana geldi 5 sınav odasına girdin mühürlü bakıldı 6 gözetmen işinde sınavlar çözüldü 7 sınavın bitti Taktak online op diye kodladım 8 kodlamam biter bitmez sonucunu ve detaylı karini gördün 9 cevap anahtarı ve video çözümler gruplarda paylaşıldı ve 10 her dört denemede bir sıfır hata kitapçığın sana ulaştırıldı şu öne çıkarılan veya şu videodan daha detaylı bilgi alabilirsin dilersen web sitemizden aramıza katılabilirsin görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "Oğuz tyt denemesinde matematikten başlanır mı abi neden başlanmasına şl gençler Burada iki tane önemli şey söyleyeceğim birincisi bu çözme sırası kişiye özel Yani tek Doğrusu olmayan bir şey şu anda tam deneyı zamanları memnun değilseniz farklı şeyler deneyin optimal bulun İkincisi de bu işte bir mucize falan aramayın yani çözme sırasındaki bir değişiklik size bir anda 1015 net falan getirmeyecek O yüzden aşırı da takılmayın görüşürüz",
+        "count": 1
+      },
+      {
+        "text": "çok rahat bir insan olmak hiçbir şeyi umursamayan böyle dünya umurunda olmayan bir insan olmak iyi bir şey değil İnsan bir şeyleri kendine dert edilmezse yani çok rahat çok relaks Bir insan olursa hiçbir şey dert edilmezse aksiyona geçmez aksiyona geçmezse de zaten hiçbir zaman hiçbir konuda başarılı olamaz strese zaten kaba tabirle İnsan bir şeyi dert edindiğinde ortaya çıkan insanı dert edindiği şey hakkında aksiyon almaya yeten ve aksiyonların dert edindiği şeyin üstesinden gelinceye kadar devam ettirmesini sağlayan şeydir",
+        "count": 1
+      }
+    ],
+    "transitions": [
+      {
+        "text": "peki",
+        "count": 7
+      },
+      {
+        "text": "sonra da",
+        "count": 5
+      },
+      {
+        "text": "gelelim",
+        "count": 1
+      }
+    ],
+    "address_terms": [
+      {
+        "text": "gençler",
+        "count": 15
+      },
+      {
+        "text": "arkadaşlar",
+        "count": 4
+      },
+      {
+        "text": "sevgili gençler",
+        "count": 1
+      },
+      {
+        "text": "canım",
+        "count": 1
+      }
+    ],
+    "aciklama": [
+      {
+        "text": "yani",
+        "count": 31
+      }
+    ],
+    "vurgu": [
+      {
+        "text": "hiç",
+        "count": 15
+      },
+      {
+        "text": "asla",
+        "count": 7
+      },
+      {
+        "text": "mutlaka",
+        "count": 7
+      },
+      {
+        "text": "kesinlikle",
+        "count": 6
+      },
+      {
+        "text": "gerek",
+        "count": 4
+      },
+      {
+        "text": "şart",
+        "count": 2
+      },
+      {
+        "text": "hiçbir şekilde",
+        "count": 1
+      }
+    ],
+    "samimiyet": [
+      {
+        "text": "bak",
+        "count": 5
+      }
+    ]
+  },
+  "emojis": {
+    "🦉": 75,
+    "🚀": 24
+  },
+  "categories": {
+    "genel": 73,
+    "soru_cevap": 10,
+    "deneme": 5,
+    "ders_ozel": 5,
+    "motivasyon": 2,
+    "seviye_ozel": 2,
+    "kaynak_onerisi": 2,
+    "program": 1
+  },
+  "number_formats": [
+    {
+      "text": "80 dakika",
+      "count": 2
+    },
+    {
+      "text": "4 saat",
+      "count": 2
+    },
+    {
+      "text": "20 dakika",
+      "count": 2
+    },
+    {
+      "text": "30 dakika",
+      "count": 1
+    },
+    {
+      "text": "226 dakika",
+      "count": 1
+    },
+    {
+      "text": "290 dakika",
+      "count": 1
+    },
+    {
+      "text": "120 dakika",
+      "count": 1
+    },
+    {
+      "text": "14 dakika",
+      "count": 1
+    },
+    {
+      "text": "54 dakika",
+      "count": 1
+    },
+    {
+      "text": "784 dakika",
+      "count": 1
+    },
+    {
+      "text": "13 saat",
+      "count": 1
+    },
+    {
+      "text": "15 saat",
+      "count": 1
+    },
+    {
+      "text": "20 deneme",
+      "count": 1
+    },
+    {
+      "text": "5 saat",
+      "count": 1
+    },
+    {
+      "text": "10 saat",
+      "count": 1
+    },
+    {
+      "text": "1015 net",
+      "count": 1
+    },
+    {
+      "text": "40 net",
+      "count": 1
+    },
+    {
+      "text": "60 net",
+      "count": 1
+    },
+    {
+      "text": "6 gün",
+      "count": 1
+    },
+    {
+      "text": "16 gün",
+      "count": 1
+    },
+    {
+      "text": "10 gün",
+      "count": 1
+    },
+    {
+      "text": "75 puan",
+      "count": 1
+    },
+    {
+      "text": "57 puan",
+      "count": 1
+    },
+    {
+      "text": "35 puan",
+      "count": 1
+    },
+    {
+      "text": "50 soru",
+      "count": 1
+    },
+    {
+      "text": "060 net",
+      "count": 1
+    },
+    {
+      "text": "100 net",
+      "count": 1
+    },
+    {
+      "text": "03 saat",
+      "count": 1
+    },
+    {
+      "text": "36 saat",
+      "count": 1
+    },
+    {
+      "text": "20 gün",
+      "count": 1
+    }
+  ]
+}
