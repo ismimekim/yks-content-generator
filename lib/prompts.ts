@@ -456,6 +456,7 @@ function buildSystemPrompt(options: BuildPromptOptions): string {
     contentType,
     language,
     styleSource,
+    mode,
     lastUserMessage,
     trends,
   } = options;
@@ -475,13 +476,37 @@ function buildSystemPrompt(options: BuildPromptOptions): string {
       ? `GÜNCEL TRENDLER:\n${trends.map((t, i) => `${i + 1}. ${t}`).join("\n")}`
       : "";
 
+  // Mode-based instructions
+  const modeInstruction = mode === "direct"
+    ? `MODE: DOĞRUDAN İÇERİK ÜRET
+Kullanıcı içeriği doğrudan üretmeni istiyor. SHORT formatında, PAS framework'ü kullanarak copy-paste kullanılabilir script yaz.
+
+YASAK (direct mode'da):
+- Liste formatı (1. 2. 3.)
+- Meta-konuşma ("olarak güçlü", "oranı yüksek")
+- "Şunlara bak:", "Bunları yap:" liste başlıkları
+
+ZORUNLU (direct mode'da):
+- PAS Framework: HOOK → AMPLIFY → AGITATE → SOLVE → CLOSE
+- 🦉 emoji başlık
+- "Görüşürüz" kapanış`
+    : `MODE: STRATEJİK DANIŞMANLIK
+Kullanıcı stratejik fikir, analiz veya öneri istiyor. Liste formatı ve meta-konuşma kullanabilirsin.
+
+İZİNLİ (angles mode'da):
+- Liste formatı (1. 2. 3.)
+- Meta-konuşma (analiz, değerlendirme)
+- Stratejik öneriler
+- Content fikirleri`;
+
   const contextBlock = `CONTEXT:
 Platform: ${platform}
 Format: ${contentType}
 Style: Oğuz Usta (${isShortContent(platform, contentType) ? "Short" : "Yatay"})
+Mode: ${mode || "direct"}
 İstek: "${lastUserMessage || "içerik üret"}"
 
-GÖREVİN: Yukarıdaki stile tam uygun, copy-paste kullanılabilir içerik üret.`;
+GÖREVİN: ${mode === "direct" ? "Yukarıdaki stile tam uygun, copy-paste kullanılabilir içerik üret." : "Stratejik analiz ve öneriler sun."}`;
 
   return [
     CORE_PERSONA,

@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
-import { buildSystemPrompt, detectPromptMode } from "@/lib/prompts";
+import { buildSystemPrompt } from "@/lib/prompts";
+import { detectIntent, getPromptMode } from "@/lib/intent-detector";
 import type { Message, Platform, Language, StyleSource } from "@/lib/types";
 
 interface ChatRequestBody {
@@ -36,7 +37,10 @@ export async function POST(req: NextRequest) {
 
     const lastUserMessage =
       [...messages].reverse().find((m) => m.role === "user")?.content ?? "";
-    const mode = detectPromptMode(lastUserMessage);
+    
+    // Detect user intent to determine appropriate mode
+    const detectedIntent = detectIntent(lastUserMessage);
+    const mode = getPromptMode(detectedIntent.intent);
 
     // Build system prompt
     const systemPrompt = buildSystemPrompt({
